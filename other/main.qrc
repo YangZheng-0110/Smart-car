@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/imageswitch/btncheckoff1.png</file>
+        <file>image/imageswitch/btncheckoff2.png</file>
+        <file>image/imageswitch/btncheckoff3.png</file>
+        <file>image/imageswitch/btncheckon1.png</file>
+        <file>image/imageswitch/btncheckon2.png</file>
+        <file>image/imageswitch/btncheckon3.png</file>
+        <file>image/btng/btngd.png</file>
+        <file>image/btng/btngl.png</file>
+        <file>image/btng/btngr.png</file>
+        <file>image/btng/btngu.png</file>
+        <file>image/btny/btnyd.png</file>
+        <file>image/btny/btnyl.png</file>
+        <file>image/btny/btnyr.png</file>
+        <file>image/btny/btnyu.png</file>
+        <file>image/background.jpg</file>
+        <file>image/icon.jpg</file>
+        <file>image/car.png</file>
+        <file>image/rgboff.png</file>
+        <file>image/rgbon.png</file>
+        <file>image/fanoff.png</file>
+        <file>image/fanon.png</file>
+        <file>image/buzzer.png</file>
+        <file>sound/clicked.wav</file>
+        <file>sound/humwarn.wav</file>
+        <file>sound/move.wav</file>
+        <file>sound/pswarn.wav</file>
+        <file>sound/tempwarn.wav</file>
+        <file>sound/time.wav</file>
+    </qresource>
+</RCC>
